@@ -1,6 +1,6 @@
 # Hướng dẫn chạy MELoRA với PhoBERT trên Vietnamese NLI
 
-README này hướng dẫn setup môi trường và chạy thí nghiệm LoRA/MELoRA trên repo [`tnisl/MELoRA`](https://github.com/tnisl/MELoRA), dựa trên notebook `vli-melora.ipynb`.
+Hướng dẫn setup môi trường và chạy thí nghiệm LoRA/MELoRA trên task VLI.
 
 ## 1. Clone repo
 
